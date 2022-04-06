@@ -8,7 +8,7 @@ If you use our project for your research or if you find this paper and repositor
 ## Folders
 
 - **Data** This folder contain the datasets.
-- **Notebook** In this folder, you will find all algorithms and implementations for the different scenarios. 
+- **Notebooks** In this folder, you will find all algorithms and implementations for the different scenarios. 
 
 ## Requirements
 This repository requires the following libraries:
@@ -104,6 +104,9 @@ conda install openpyxl
 pip install graphviz
 ```
 ```
+pip install seaborn
+```
+```
 pip install dtreeviz
 ```
 ```
@@ -111,6 +114,9 @@ pip install statsmodels
 ```
 ```
 pip install xgboost
+```
+```
+pip install spacy
 ```
 
 ## Execution
